@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg_cnr1 {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+  background-size: cover;
+}
+.title {
+  color: #132d84;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.img1 {
+  height: 45vh;
+  width: 30vw;
+  margin-top: 440px;
+}
+.para {
+  color: #323f4b;
+  font-family: "Roboto";
+  text-align: center;
+  font-family: "Roboto";
+}
+.button1 {
+  background-color: #132d84;
+  color: #ffffff;
+  border-width: 0px;
+  text-align: center;
+  font-family: "Roboto";
+  padding: 5px;
+}
+.bg_cnr2 {
+  background-color: #ffedcb;
+  background-size: cover;
+}
+.title2 {
+  font-family: "Roboto";
+  color: #132d84;
+  margin-top: 20px;
+  margin-left: 185px;
+}
+.img2 {
+  height: 280px;
+  width: 270px;
+  margin-top: 40px;
+  margin-left: 185px;
+}
+.crd2 {
+  background-color: #ffe2ab;
+  font-family: "Roboto";
+  border-radius: 10px;
+  margin: 20px;
+}
+.img2a {
+  height: 130px;
+  padding: 10px;
+}
+.head2 {
+  font-family: "Roboto";
+  color: #253263;
+  font-size: 24px;
+  padding: 5px;
+}
+.para2 {
+  font-family: "Roboto";
+  color: #132d84;
+  font-size: 17px;
+  padding: 5px;
+}
+.button2 {
+  background-color: #132d84;
+  font-family: "Roboto";
+  color: white;
+  border-radius: 2px;
+  border-width: 0px;
+  font-size: 16px;
+  padding-top: 6px;
+  width: 80px;
+  height: 30px;
+}
+.algn {
+  text-align: center;
+}
